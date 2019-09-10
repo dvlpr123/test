@@ -1,4 +1,4 @@
 x=10
-y=40
+y=500
 sum=x+y
 print(sum)
